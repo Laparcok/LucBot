@@ -1,11 +1,11 @@
 {
 "autocomposing": true,
-"autorecording": false,
+"autorecording": true,
 "bugc": false,
 "antitrol": false,
 "antical": false,
 "antitags": false,
-"readG": false,
+"readG": true,
 "readP": true,
 "regisinfo": false,
 "autoregis": false,
@@ -13,7 +13,7 @@
 "mainmenu": false,
 "banChats": false,
 "autorespon": false,
-"database": false,
+"database": true,
 "premium": false,
 "infoerror": false,
 "autobackup": false
